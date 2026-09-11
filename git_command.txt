@@ -1,3 +1,4 @@
+git basic command
 git status 
 clear
 git add
