@@ -8,3 +8,4 @@ rm (file name)
 ls
 git restore (file name)
 suraj with hexatic 
+amar hexatic.co
