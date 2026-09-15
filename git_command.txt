@@ -7,3 +7,4 @@ git commit -m
 rm (file name)
 ls
 git restore (file name)
+suraj with hexatic 
